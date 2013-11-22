@@ -1,0 +1,22 @@
+{
+  "name": "grunt-badge",
+  "version": "0.1.0",
+  "private": true,
+  "description": "serves the grunt-badge",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:vladikoff/grunt-badge.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vladikoff/grunt-badge/issues"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "node-static": "~0.7.2"
+  }
+}
