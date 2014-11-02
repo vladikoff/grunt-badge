@@ -1,4 +1,4 @@
-grunt-badge server
+grunt-badge server [deprecated]
 ===========
 
 Serves the grunt-badge
